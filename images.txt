@@ -18,3 +18,4 @@ goharbor/harbor-portal:v2.3.2
 goharbor/harbor-jobservice:v2.3.2
 goharbor/redis-photon:v2.3.2
 goharbor/nginx-photon:v2.3.2
+nacos/nacos-server:v2.2.1
