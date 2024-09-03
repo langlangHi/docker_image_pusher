@@ -1,3 +1,11 @@
 mysql:5.7
 redis:latest
 gitlab/gitlab-ce:latest
+elasticsearch:7.14.0
+kibana:7.14.0
+jenkins/jenkins:latest
+minio/minio:latest
+portainer/portainer-ce:latest
+redis:latest
+apache/rocketmq:latest
+apacherocketmq/rocketmq-dashboard:latest
