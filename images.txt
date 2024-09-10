@@ -22,4 +22,4 @@ nacos/nacos-server:v2.2.1
 mariadb:10.11
 memcached:1.6.18
 seafileltd/seafile-mc:11.0-latest
-kkfileview:4.1.0
+keking/kkfileview:4.1.0
