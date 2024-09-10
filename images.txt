@@ -23,3 +23,4 @@ mariadb:10.11
 memcached:1.6.18
 seafileltd/seafile-mc:11.0-latest
 nexus3:latest
+kkfileview:latest
