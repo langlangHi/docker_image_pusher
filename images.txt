@@ -24,3 +24,4 @@ memcached:1.6.18
 seafileltd/seafile-mc:11.0-latest
 keking/kkfileview:4.1.0
 openjdk:17
+portainer/portainer-ce:latest
