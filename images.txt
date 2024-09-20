@@ -26,3 +26,4 @@ keking/kkfileview:4.1.0
 openjdk:17
 portainer/portainer-ce:latest
 postgres:14.7
+timescale/timescaledb:latest-pg14
