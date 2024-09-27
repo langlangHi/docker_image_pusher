@@ -28,3 +28,4 @@ portainer/portainer-ce:latest
 postgres:14.7
 timescale/timescaledb:latest-pg14
 rancher/server:latest
+rancher/agent:v1.2.11
