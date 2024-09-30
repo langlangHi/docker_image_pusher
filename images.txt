@@ -27,5 +27,4 @@ openjdk:17
 portainer/portainer-ce:latest
 postgres:14.7
 timescale/timescaledb:latest-pg14
-rancher/server:v2.7.5
-rancher/agent:v1.2.11
+rancher/rancher:v2.7.15
