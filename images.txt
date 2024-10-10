@@ -1,4 +1,5 @@
 mysql:5.7
+ysql:latest
 redis:latest
 gitlab/gitlab-ce:latest
 elasticsearch:7.14.0
@@ -28,4 +29,3 @@ portainer/portainer-ce:latest
 postgres:14.7
 timescale/timescaledb:latest-pg14
 rancher/rancher:v2.7.15
-openjdk:17
