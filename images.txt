@@ -1,4 +1,5 @@
 mysql:5.7
+mysql:8.0.27
 redis:latest
 gitlab/gitlab-ce:latest
 elasticsearch:7.14.0
