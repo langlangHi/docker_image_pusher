@@ -29,3 +29,5 @@ portainer/portainer-ce:latest
 postgres:14.7
 timescale/timescaledb:latest-pg14
 nginx:latest
+prom/prometheus:v2.40.1
+grafana/grafana:9.2.4
