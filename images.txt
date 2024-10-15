@@ -31,3 +31,4 @@ timescale/timescaledb:latest-pg14
 nginx:latest
 prom/prometheus:v2.40.1
 grafana/grafana:9.2.4
+bitnami/redis-exporter:latest
