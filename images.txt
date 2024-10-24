@@ -33,3 +33,4 @@ prom/prometheus:v2.40.1
 grafana/grafana:9.2.4
 bitnami/redis-exporter:latest
 bitnami/mysqld-exporter:latest
+zlmediakit/zlmediakit:master
