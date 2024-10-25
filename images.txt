@@ -35,3 +35,4 @@ bitnami/redis-exporter:latest
 bitnami/mysqld-exporter:latest
 zlmediakit/zlmediakit:master
 rabbitmq:4.0.2-management
+rabbitmq:latest
