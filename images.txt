@@ -1,1 +1,1 @@
-docker pull prom/mysqld-exporter:latest
+prom/mysqld-exporter:latest
