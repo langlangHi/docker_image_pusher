@@ -1,1 +1,1 @@
-prom/mysqld-exporter:main
+rabbitmq:3.10.6
