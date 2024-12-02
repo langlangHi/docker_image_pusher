@@ -1,1 +1,1 @@
-emqx/emqx-enterprise:5.8.2
+emqx/emqx:5.8.2
