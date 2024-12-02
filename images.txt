@@ -1,1 +1,1 @@
-emqx/emqx:latest
+emqx/emqx-enterprise:5.8.2
