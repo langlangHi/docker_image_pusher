@@ -1,1 +1,1 @@
-emqx/emqx:5.8.2
+bitnami/kafka:latest
