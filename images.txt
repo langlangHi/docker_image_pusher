@@ -1,1 +1,1 @@
-ollama/ollama:latest
+xuxueli/xxl-job-admin:2.3.0
