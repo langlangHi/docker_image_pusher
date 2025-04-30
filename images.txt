@@ -1,1 +1,1 @@
-docker:28.1.1
+kicbase/echo-server:1.0
