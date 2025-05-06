@@ -1,1 +1,1 @@
-kicbase/echo-server:1.0
+registry.k8s.io/pause:3.8
