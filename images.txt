@@ -1,1 +1,1 @@
-maven:3.6-openjdk-17
+ghcr.io/flannel-io/flannel:v0.26.7
