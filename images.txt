@@ -1,1 +1,1 @@
-ghcr.io/flannel-io/flannel-cni-plugin:v1.6.2-flannel1
+node:18.19.1
