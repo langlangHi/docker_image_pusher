@@ -1,1 +1,1 @@
-maven:3.6.3-openjdk-17
+docker.n8n.io/n8nio/n8n:latest
