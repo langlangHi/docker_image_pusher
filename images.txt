@@ -1,1 +1,1 @@
-gcr.io/google-samples/kubernetes-bootcamp:v2
+docker.io/jocatalin/kubernetes-bootcamp:v2
