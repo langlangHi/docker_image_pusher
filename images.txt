@@ -1,1 +1,1 @@
-docker.io/jocatalin/kubernetes-bootcamp:v2
+gcr.io/google-samples/hello-app:2.0
