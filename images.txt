@@ -1,1 +1,1 @@
-us-docker.pkg.dev/google-samples/containers/gke/gb-frontend:v5
+registry.k8s.io/ingress-nginx/controller:v1.6.3
