@@ -1,1 +1,1 @@
-docker.io/redis:6.0.5
+us-docker.pkg.dev/google-samples/containers/gke/gb-redis-follower:v2
