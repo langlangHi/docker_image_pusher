@@ -1,1 +1,1 @@
-mobz/elasticsearch-head:5
+infinilabs/console:1.29.8-2197
