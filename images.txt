@@ -1,1 +1,3 @@
-infinilabs/console:1.29.8-2197
+elasticsearch:8.17.10
+kibana:8.17.10
+logstash:8.17.10
