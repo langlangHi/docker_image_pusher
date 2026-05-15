@@ -1,1 +1,1 @@
-eclipse-mosquitto:2.0
+qdrant/qdrant:latest
