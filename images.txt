@@ -1,2 +1,1 @@
-confluentinc/cp-zookeeper:7.5.0
-confluentinc/cp-kafka:7.5.0
+tdengine/tdengine:3.3.2.0
